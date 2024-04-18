@@ -1,0 +1,492 @@
+.container{
+    margin: auto;
+}
+.subcontainer{
+    border: 8px solid black ;
+    border-left: 1px solid black ;
+    border-top: 1px solid black ;
+    border-radius:15px;
+    margin-top:4%;
+    margin-left: auto;
+    text-align: center;
+
+}
+
+#boton{
+    width: auto;
+    position: relative;
+    margin-bottom: 7%;
+}
+#boton1{
+    width: auto;
+    margin-bottom: 7%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+#boton2{
+    width: 50%;
+    margin-bottom: 7%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+#boton3{
+    width: 30%;
+    margin-bottom: 7%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+#boton4{
+    width: 30%;
+    margin-bottom: 7%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+#boton5{
+    width: 10%;
+    margin-bottom: 7%;
+    
+    border: 1px solid black ;
+}
+#boton6{
+    width: 30%;
+    margin-bottom: 7%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+#boton7{
+    width: 80%;
+    margin-bottom: 7%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+#boton8{
+    width: 30%;
+    margin-bottom: 7%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+
+.container_1{
+    text-align: center;
+}
+/** Datos personales **/
+
+#uno{
+    
+    border: 1px solid black;    
+    height: 60px;
+    
+}
+#dos{
+    
+    border: 1px solid black;
+    height: 60px;
+    
+}
+#tres{
+    
+    border: 1px solid black;
+    height: 60px;
+    
+}
+#cuatro{
+    
+    border: 1px solid black;
+    height: 60px;
+    
+}
+#cinco{
+    
+    border: 1px solid black;
+    height: 60px;
+    
+}
+#seis{
+    text-align: left;  
+    border: 1px solid black;
+    height: 80px;
+    
+}
+#siete{
+    text-align: left;  
+    border: 1px solid black;
+    
+    
+}
+#ocho{
+    text-align: left;  
+    border: 1px solid black;
+    
+    
+}
+#nueve{
+    text-align: left;  
+    border: 1px solid black;
+    
+    
+}
+#diez{
+    text-align: left;  
+    border: 1px solid black;
+    margin: 5%;
+   
+}
+#once{
+    text-align: left;  
+    border: 1px solid black;
+    height: 15px;
+    
+}
+#dose{
+    text-align: left;  
+    border: 1px solid black;
+    
+    
+}
+#trece{
+    text-align: left;  
+    border: 1px solid black;
+    width: 10px;
+    height: 40px;
+    
+}
+#catorce{
+    text-align: left;  
+    border: 1px solid black;
+  
+    
+}
+#quince{
+    text-align: left;  
+    border: 1px solid black;
+    
+}
+#dieciseis{
+    text-align: left;  
+    margin-bottom: -3%;
+    height: 40px;
+}
+
+
+#com{
+   
+    text-align: left;  
+    border: 1px solid black;
+    height: 60px;
+ }
+
+#hola{
+    
+    right: -50%;
+    top: -80%;
+} 
+
+
+.col-lg-2{
+    border-right: 1px solid black;
+}
+.col-lg-3{
+    border-right: 1px solid black;
+}
+
+.numero{
+    background-color: black;
+    border-radius: 50%;
+    color:white;
+    width: 2%; 
+    text-align: center;
+}
+
+
+.text
+{
+    background-color: black;
+   
+    color:white;
+    width: auto; 
+    text-align: center;
+    position: relative;
+    left: 1%;
+    padding: 0% 2%;
+    
+}
+.subcontainer_1{
+    display: flex;
+    margin-top: 2%;
+    
+}
+
+.datos{
+    text-align: center;
+    background-color: #F2FAFC;
+    margin-top:2%;
+    border: 8px solid black ;
+    border-left: 1px solid black ;
+    border-top: 1px solid black ;
+    
+    padding: 0px 15px;
+}
+
+.datos_2{
+    text-align: center;
+    background-color: #F2FAFC;
+    margin-top:2%;
+    border: 8px solid black ;
+    border-left: 1px solid black ;
+    border-top: 1px solid black ;
+    
+    padding: 0px 15px;
+
+}
+
+/* DISEÑO DE LA FILA #2*/
+
+.lineaT1{
+    border: 1px solid black;
+
+}
+.lineaT2{
+    border: 1px solid black;
+
+}
+#arriba{
+    background-color: #D9F0F6;
+    border: 1px solid black;
+
+}
+#nova{
+    background-color: white;
+    border: 1px solid black;
+
+}
+.SI{
+    border-right: 1px solid black;
+}
+.MES{
+    border-right: 1px solid black;
+}
+
+.terminacion p {
+    position: relative;
+}
+.terminacion p::after {
+    content: '';
+    position: absolute;
+    bottom: 0px; /* Ajusta según sea necesario */
+    left: -7%;
+    width: 114%;
+    border-bottom: 1px solid black; /* Grosor y color del borde */
+}
+
+
+.GRADUADO p {
+    position: relative;
+}
+.GRADUADO p::after {
+    content: '';
+    position: absolute;
+    bottom: 0px; /* Ajusta según sea necesario */
+    left: -15%;
+    width: 130%;
+    border-bottom: 1px solid black; /* Grosor y color del borde */
+}
+
+/* DISEÑO DE LA FILA #3*/
+
+
+.subidioma{
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 1%;
+    padding: 0px 11px;
+    
+}
+
+
+#generalcol{
+    border-top: 1px solid black;
+}
+#hablantes{
+    background-color: #D9F0F6;
+}
+#general1{
+    border: 1px solid black;
+    background-color: #D9F0F6;
+    border-bottom: none;
+    border-right: none;
+}
+#general{
+    border: 1px solid black;
+    border-bottom: none;
+    border-right: none;
+}
+
+#colgeneral{
+    background-color: #D9F0F6;  
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    padding: 0px 11px;
+}
+
+/* 
+*CONTENEDOR #4 
+
+*/
+.subcontainer-4{
+    background-color: #F2FAFC;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+    padding: 0px 11px;
+    margin-top: 2%;
+}
+/* ENUNCIADOS DE LA EXPERIENCIA LABORAL */
+#subtitle{
+    
+    border: 1px solid black;
+    text-align: center;
+    border-top: none;
+}
+#title{
+    border: 1px solid black; 
+    text-align: center;
+}
+/*
+*COLUMAS DE LA EXPERIENCIA LABORAL FILAS Y COLUMNAS
+*/
+#excol1{
+    border: 1px solid black;
+    border-right: none;
+    border-top: none;
+}
+#excol2{
+    border: 1px solid black;
+    border-right: none;
+    border-top: none;
+}
+#excol3{
+    border: 1px solid black;
+    border-right: none;
+    border-top: none;
+}
+#excol4{
+    border: 1px solid black;
+    border-top: none;
+}
+/*
+*MODIFICACION
+*/
+#excol01{
+    border: 1px solid black;
+    border-right: none;
+    border-top: none;
+    padding: 5px;
+}
+#excol02{
+    border: 1px solid black;
+    border-right: none;
+    border-top: none;
+}
+#excol03{
+    border: 1px solid black;
+    border-top: none;
+    padding: 5px;
+}
+
+/* container 5 */
+
+.subcontainer-md-5{
+    background-color: #F2FAFC;
+    border: 0.5px solid black;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black; 
+    margin-top: 2%;
+}
+.tablaTime-md{
+    margin: 3% 8% 2% 8%;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 0px 11px;
+    
+}
+
+#tatime1{
+
+    border: 1px solid black;
+    border-right: none;
+    border-bottom: none;
+}
+#tatime{
+    border: 1px solid black;
+    border-right: none;
+    border-bottom: none;
+}
+#tatime01{
+    border-top: 1px solid black;
+    
+}
+#tatime02{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-top-right-radius: 12px;
+    
+}
+.texttime{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+/* container 6 */
+
+.texto{
+    border: 1px solid black;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+ 
+}
+
+#boton9{
+    width: 60%;
+    margin-bottom: 7%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+#boton10{
+    width: 40%;
+    border: 0px; 
+    border-bottom: 1px solid black ;
+}
+
+
+/* container 7 */
+.subcontainer-7{
+    background-color: #F2FAFC;
+    border: 0.5px solid black;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black; 
+    margin-top: 2%;
+    margin-bottom: 3%;
+
+}
+#comentario{
+    width: 95%; 
+    height: 150px;
+    margin: 2%; 
+    border-radius: 15px;
+
+}
+#firma {
+    border: none;
+    width: 45%;
+    border-bottom: 1px solid black;
+    margin-left: 2%;
+}
+.moverTexto{
+    margin-left: 50%;
+    margin-top: -3%;
+}
+.moverTexto1{
+    margin-left: 2%;
+
+}
+
